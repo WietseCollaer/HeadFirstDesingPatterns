@@ -42,6 +42,7 @@ public class WeatherStationIntegrationTest {
         CurrentConditionDisplay secondDisplay = new CurrentConditionDisplay(weatherData);
 
         weatherData.setMeasurements(TEMPERATURE, HUMIDITY, PRESSURE);
+
         assertThat(outputStream.toString()).isEqualTo(EXPECTED_OUTPUT + EXPECTED_OUTPUT);
     }
 

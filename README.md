@@ -18,3 +18,5 @@ The Observer Pattern defines a one-to-many dependency between objects so that wh
 all of its dependents are notified and updated automatically.
 
 **Hosted by:** Wietse Collaer 
+
+**Next Host:** Maxime Orione
