@@ -7,10 +7,10 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class BeverageIntegrationTest {
 
     private static final double INITIAL_DARKROAST_COST = 1.00;
-    public static final double INITIAL_HOUSEBLEND_COST = 0.89;
-    public static final double MOCHA_COST = 0.20;
-    public static final double SOY_COST = 0.30;
-    public static final double WHIP_COST = 0.50;
+    private static final double INITIAL_HOUSEBLEND_COST = 0.89;
+    private static final double MOCHA_COST = 0.20;
+    private static final double SOY_COST = 0.30;
+    private static final double WHIP_COST = 0.50;
 
     @Test
     public void beverageTest() {

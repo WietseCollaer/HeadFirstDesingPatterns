@@ -1,7 +1,7 @@
 package starbuzz;
 
 public class Soy extends CondimentDecorator {
-    Beverage beverage;
+    private Beverage beverage;
 
     public Soy(Beverage beverage) {
         this.beverage = beverage;

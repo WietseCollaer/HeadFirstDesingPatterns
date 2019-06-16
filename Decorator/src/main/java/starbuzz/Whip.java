@@ -1,7 +1,7 @@
 package starbuzz;
 
 public class Whip extends CondimentDecorator {
-    Beverage beverage;
+    private Beverage beverage;
 
     public Whip(Beverage beverage) {
         this.beverage = beverage;
