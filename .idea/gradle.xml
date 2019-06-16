@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Decorator" />
             <option value="$PROJECT_DIR$/Inheritance" />
             <option value="$PROJECT_DIR$/Observer" />
           </set>
