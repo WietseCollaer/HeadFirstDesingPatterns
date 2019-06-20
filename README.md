@@ -28,4 +28,4 @@ Decorators provide a flexible alternative to subclassing for extending functiona
 
 **Hosted by:** Maxime Orione
 
-**Next Host:**
+**Next Host:** Alexandre Vettas
