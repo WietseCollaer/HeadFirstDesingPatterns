@@ -1,9 +1,11 @@
 package behaviour.abstract_factory;
 
+import static behaviour.Behaviours.DUCK_CALL;
+
 public class DuckCall implements AnimalCall {
 
     @Override
     public String call() {
-        return "Quack";
+        return DUCK_CALL.getDescription();
     }
 }

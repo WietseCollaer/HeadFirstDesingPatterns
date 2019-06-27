@@ -2,26 +2,25 @@ package behaviour.abstract_factory;
 
 import org.junit.Test;
 
+import static behaviour.Behaviours.DUCK_CALL;
+import static behaviour.Behaviours.DUCK_MOVEMENT;
+import static behaviour.Behaviours.OWL_CALL;
+import static behaviour.Behaviours.OWL_MOVEMENT;
 import static org.junit.Assert.assertEquals;
 
 public class AnimalTest {
 
-    public static final String DUCK_CALL = "Quack";
-    public static final String DUCK_MOVEMENT = "Waddle";
-    public static final String OWL_CALL = "Hoot";
-    public static final String OWL_MOVEMENT = "Swoop";
-
     @Test
     public void animal_duck() {
         Animal duck = new Duck();
-        assertEquals(duck.getObservedCall(), DUCK_CALL);
-        assertEquals(duck.getObservedMovement(), DUCK_MOVEMENT);
+        assertEquals(duck.getObservedCall(), DUCK_CALL.getDescription());
+        assertEquals(duck.getObservedMovement(), DUCK_MOVEMENT.getDescription());
     }
 
     @Test
     public void animal_owl() {
         Animal owl = new Owl();
-        assertEquals(owl.getObservedCall(), OWL_CALL);
-        assertEquals(owl.getObservedMovement(), OWL_MOVEMENT);
+        assertEquals(owl.getObservedCall(), OWL_CALL.getDescription());
+        assertEquals(owl.getObservedMovement(), OWL_MOVEMENT.getDescription());
     }
 }
