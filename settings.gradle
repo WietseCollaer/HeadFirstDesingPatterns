@@ -2,4 +2,5 @@ rootProject.name = 'HeadFirstDesignPatterns'
 include 'Inheritance'
 include 'Observer'
 include 'Decorator'
+include 'Factory'
 

@@ -21,7 +21,7 @@ all of its dependents are notified and updated automatically.
 
 **Next Host:** Maxime Orione
 
-## Decorator Pattern (XX/XX/2019)
+## Decorator Pattern (20/06/2019)
 **Decorator Pattern:**
 The Decorator Pattern attaches additional responsibilities to an object dynamically.
 Decorators provide a flexible alternative to subclassing for extending functionality.
@@ -29,3 +29,14 @@ Decorators provide a flexible alternative to subclassing for extending functiona
 **Hosted by:** Maxime Orione
 
 **Next Host:** Alexandre Vettas
+
+## Factory Pattern (27/06/2019)
+**Factory Method Pattern:**
+The Factory Method Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+
+**Abstract Factory Pattern:**
+The Abstract Factory Pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+**Hosted by:** Alexandre Vettas
+
+**Next Host:**
