@@ -39,4 +39,4 @@ The Abstract Factory Pattern provides an interface for creating families of rela
 
 **Hosted by:** Alexandre Vettas
 
-**Next Host:**
+**Next Host:** Wietse Collaer

@@ -7,7 +7,9 @@ public enum Behaviours {
     DUCK_CALL("Quack"),
     DUCK_MOVEMENT( "Waddle"),
     OWL_CALL("Hoot"),
-    OWL_MOVEMENT("Swoop");
+    OWL_MOVEMENT("Swoop"),
+    CHIMP_MOVEMENT("Swing"),
+    CHIMP_CALL("Ook");
 
 
     private final String description;

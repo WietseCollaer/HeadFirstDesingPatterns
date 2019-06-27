@@ -1,6 +1,6 @@
 package behaviour.factory_method;
 
-public abstract class Behaviour {
+public interface Behaviour {
 
-    public abstract String getBehaviour();
+    String getBehaviour();
 }
