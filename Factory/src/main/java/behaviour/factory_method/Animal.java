@@ -8,7 +8,7 @@ public abstract class Animal {
         observedBehaviour = createBehaviour().getBehaviour();
     }
 
-    public abstract Behaviour createBehaviour();
+    protected abstract Behaviour createBehaviour();
 
     public String getObservedBehaviour() {
         return observedBehaviour;

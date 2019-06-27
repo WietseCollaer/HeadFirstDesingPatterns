@@ -1,6 +1,6 @@
 package behaviour.factory_method;
 
-public class MonkeyBehaviour extends Behaviour {
+public class ChimpanzeeBehaviour extends Behaviour {
 
     @Override
     public String getBehaviour() {

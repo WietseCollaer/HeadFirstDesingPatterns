@@ -16,7 +16,7 @@ public class AnimalTest {
 
     @Test
     public void monkey() {
-         assertEquals(new Monkey().createBehaviour().getBehaviour(), MONKEY_BEHAVIOUR);
+         assertEquals(new Chimpanzee().createBehaviour().getBehaviour(), MONKEY_BEHAVIOUR);
     }
 
     @Test
@@ -28,7 +28,7 @@ public class AnimalTest {
 
     @Test
     public void animal_monkey() {
-        Animal monkey = new Monkey();
+        Animal monkey = new Chimpanzee();
         monkey.beAlive();
         assertEquals(monkey.getObservedBehaviour(), MONKEY_BEHAVIOUR);
     }
