@@ -10,16 +10,6 @@ public class AnimalTest {
     public static final String MONKEY_BEHAVIOUR = "Throw feces";
 
     @Test
-    public void silverback() {
-         assertEquals(new Silverback().createBehaviour().getBehaviour(), SILVERBACK_BEHAVIOUR);
-    }
-
-    @Test
-    public void monkey() {
-         assertEquals(new Chimpanzee().createBehaviour().getBehaviour(), MONKEY_BEHAVIOUR);
-    }
-
-    @Test
     public void animal_silverback() {
         Animal silverback = new Silverback();
         silverback.beAlive();
@@ -28,8 +18,8 @@ public class AnimalTest {
 
     @Test
     public void animal_monkey() {
-        Animal monkey = new Chimpanzee();
-        monkey.beAlive();
-        assertEquals(monkey.getObservedBehaviour(), MONKEY_BEHAVIOUR);
+        Animal chimp = new Chimpanzee();
+        chimp.beAlive();
+        assertEquals(chimp.getObservedBehaviour(), MONKEY_BEHAVIOUR);
     }
 }

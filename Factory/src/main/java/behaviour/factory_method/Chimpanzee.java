@@ -4,6 +4,6 @@ public class Chimpanzee extends Animal {
 
     @Override
     protected Behaviour createBehaviour() {
-        return new ChimpanzeeBehaviour();
+        return new MonkeyBusinessBehaviour();
     }
 }

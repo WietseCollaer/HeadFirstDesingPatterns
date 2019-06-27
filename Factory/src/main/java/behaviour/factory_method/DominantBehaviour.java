@@ -1,6 +1,6 @@
 package behaviour.factory_method;
 
-public class SilverbackBehaviour extends Behaviour {
+public class DominantBehaviour extends Behaviour {
 
     @Override
     public String getBehaviour() {

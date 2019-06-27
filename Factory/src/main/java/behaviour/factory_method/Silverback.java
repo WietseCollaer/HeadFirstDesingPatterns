@@ -4,6 +4,6 @@ public class Silverback extends Animal {
 
     @Override
     protected Behaviour createBehaviour() {
-        return new SilverbackBehaviour();
+        return new DominantBehaviour();
     }
 }
