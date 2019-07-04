@@ -40,3 +40,10 @@ The Abstract Factory Pattern provides an interface for creating families of rela
 **Hosted by:** Alexandre Vettas
 
 **Next Host:** Wietse Collaer
+
+## Singleton Pattern (04/07/2019)
+**Singleton Pattern:** The Singleton Pattern ensures a class has only one instance, and provides a global point of access to it.
+
+**Hosted by:** Wietse Collaer
+
+**Next Host:** Alexandre Vettas
