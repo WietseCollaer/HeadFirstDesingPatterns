@@ -3,4 +3,4 @@ include 'Inheritance'
 include 'Observer'
 include 'Decorator'
 include 'Factory'
-
+include 'Singleton'
