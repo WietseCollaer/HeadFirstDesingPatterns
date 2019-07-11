@@ -17,7 +17,7 @@ public class EpicChoreographyTest {
     private Spin180Command spin180Command = new Spin180Command();
     private Spin360Command spin360Command = new Spin360Command();
     private MoonwalkCommand moonwalkCommand = new MoonwalkCommand(new Moonwalk());
-    private ArabesqueCommand arabesqueCommand = new ArabesqueCommand(new Arabesque());
+    private ArabesqueCommand arabesqueCommand = new ArabesqueCommand();
 
     public static final String SPIN_180 = "Spin 180 degrees";
     public static final String SPIN_360 = "Spin 360 degrees";

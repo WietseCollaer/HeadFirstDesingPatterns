@@ -7,8 +7,8 @@ public class ArabesqueCommand implements Command {
     private Arabesque arabesque;
     private String result;
 
-    public ArabesqueCommand(Arabesque arabesque) {
-        this.arabesque = arabesque;
+    public ArabesqueCommand() {
+        arabesque = new Arabesque();
     }
 
     @Override
