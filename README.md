@@ -47,3 +47,10 @@ The Abstract Factory Pattern provides an interface for creating families of rela
 **Hosted by:** Wietse Collaer
 
 **Next Host:** Alexandre Vettas
+
+## Command Pattern (11/07/2019)
+**Command Pattern:** The Command Pattern encapsulates a request as an object, thereby letting you parameterize other objects with different requests, queue or log requests, and support undoable operations. 
+
+**Hosted by:** Alexandre Vettas
+
+**Next Host:** 
