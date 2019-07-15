@@ -49,8 +49,16 @@ The Abstract Factory Pattern provides an interface for creating families of rela
 **Next Host:** Alexandre Vettas
 
 ## Command Pattern (11/07/2019)
-**Command Pattern:** The Command Pattern encapsulates a request as an object, thereby letting you parameterize other objects with different requests, queue or log requests, and support undoable operations. 
+**Command Pattern:** The Command Pattern encapsulates a request as an object, thereby letting you parameterize other objects with different requests, queue or log requests, and support undoable operations.
 
 **Hosted by:** Alexandre Vettas
 
 **Next Host:** Maxime Orione
+
+## Adapter & Facade Pattern (18/07/2019)
+**Adapter Pattern:** Converts the interface of a class into another interface clients expect. Lets classes work together that couldn't otherwise because of incompatible interfaces.
+**Facade Pattern:** Provides a minified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.
+
+**Hosted by:** Maxime Orione
+
+**Next Host:**

@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1368a2b0-4ebd-4f00-a136-20631d78dc40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/main/java/turkeyduck/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/main/java/turkeyduck/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/main/java/turkeyduck/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/main/java/turkeyduck/TurkeyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/main/java/turkeyduck/WildTurkey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -125,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/TrainerFacade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="260">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#369#370#0" expanded="true" />
@@ -141,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/test/java/pokemontrainerfacade/TrainerFacadeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="280">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,8 +146,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Trainer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="100">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -162,25 +155,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Pokemon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-20">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            <state relative-caret-position="135">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding>
-                <element signature="e#834#835#0" expanded="true" />
-                <element signature="e#866#867#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-                <element signature="e#969#970#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
-                <element signature="e#1082#1083#0" expanded="true" />
-                <element signature="e#1122#1123#0" expanded="true" />
-                <element signature="e#1154#1155#0" expanded="true" />
-                <element signature="e#1197#1198#0" expanded="true" />
-                <element signature="e#1231#1232#0" expanded="true" />
-                <element signature="e#1290#1291#0" expanded="true" />
-                <element signature="e#1336#1337#0" expanded="true" />
-                <element signature="e#1391#1392#0" expanded="true" />
-                <element signature="e#1427#1428#0" expanded="true" />
-                <element signature="e#1500#1501#0" expanded="true" />
-                <element signature="e#1550#1551#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,8 +176,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/PokemonRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="100">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -246,6 +233,10 @@
         <option value="$PROJECT_DIR$/Adapter and Facade/src/test/java/pokemontrainerfacade/TrainerAdapterTest.java" />
         <option value="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/TrainerAdapter.java" />
         <option value="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/TrainerFacade.java" />
+        <option value="$PROJECT_DIR$/Adapter and Facade/src/test/java/pokemontrainerfacade/TrainerFacadeTest.java" />
+        <option value="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Pokemon.java" />
+        <option value="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Trainer.java" />
+        <option value="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/PokemonRepository.java" />
       </list>
     </option>
   </component>
@@ -330,76 +321,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pokemontrainerfacade" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Decorator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Decorator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Decorator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Decorator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Decorator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mechs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Inheritance" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Inheritance" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Inheritance" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Inheritance" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HeadFirstDesingPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesingPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Inheritance" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -454,7 +375,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.example in HeadFirstDesignPatterns.Inheritance.test">
+  <component name="RunManager" selected="JUnit.TrainerFacadeTest">
     <configuration name="ChocolateBoilerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstDesignPatterns.Singleton.test" />
       <extension name="coverage">
@@ -480,6 +401,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.cegeka.meetingroom" />
       <option name="MAIN_CLASS_NAME" value="com.cegeka.meetingroom.MeetingRoomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainerFacadeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HeadFirstDesignPatterns.Adapter_and_Facade.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pokemontrainerfacade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pokemontrainerfacade" />
+      <option name="MAIN_CLASS_NAME" value="pokemontrainerfacade.TrainerFacadeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -517,6 +453,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TrainerFacadeTest" />
         <item itemvalue="JUnit.example in HeadFirstDesignPatterns.Inheritance.test" />
         <item itemvalue="JUnit.TrainerFacadeTest.itWorks" />
         <item itemvalue="JUnit.ChocolateBoilerTest" />
@@ -537,7 +474,7 @@
       <workItem from="1562239537302" duration="652000" />
       <workItem from="1562241879760" duration="2915000" />
       <workItem from="1562312102733" duration="568000" />
-      <workItem from="1563203573688" duration="4507000" />
+      <workItem from="1563203573688" duration="6026000" />
     </task>
     <task id="LOCAL-00001" summary="Added Singleton project">
       <created>1562240108928</created>
@@ -557,15 +494,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TrainerAdapterTest_itWorks - 2019.07.15 at 18h 10m 37s.xml">
-      <configuration name="TrainerAdapterTest.itWorks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TrainerAdapterTest_itWorks - 2019.07.15 at 18h 10m 58s.xml">
-      <configuration name="TrainerAdapterTest.itWorks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TrainerAdapterTest_itWorks - 2019.07.15 at 18h 11m 49s.xml">
-      <configuration name="TrainerAdapterTest.itWorks" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TrainerAdapterTest_itWorks - 2019.07.15 at 18h 13m 09s.xml">
       <configuration name="TrainerAdapterTest.itWorks" configurationId="JUnit" />
     </history-entry>
@@ -587,15 +515,24 @@
     <history-entry file="TrainerAdapterTest_itWorks - 2019.07.15 at 18h 23m 43s.xml">
       <configuration name="TrainerAdapterTest.itWorks" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="example_in_HeadFirstDesignPatterns_Inheritance_test - 2019.07.15 at 18h 28m 26s.xml">
+      <configuration name="example in HeadFirstDesignPatterns.Inheritance.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrainerFacadeTest - 2019.07.15 at 18h 40m 57s.xml">
+      <configuration name="TrainerFacadeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrainerFacadeTest - 2019.07.15 at 18h 46m 33s.xml">
+      <configuration name="TrainerFacadeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8642000" />
+    <option name="totallyTimeSpent" value="10161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2590604" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2590604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -615,7 +552,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32918397" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32918397" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32918397" />
       <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -812,52 +749,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Pokemon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-          <folding>
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#866#867#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1154#1155#0" expanded="true" />
-            <element signature="e#1197#1198#0" expanded="true" />
-            <element signature="e#1231#1232#0" expanded="true" />
-            <element signature="e#1290#1291#0" expanded="true" />
-            <element signature="e#1336#1337#0" expanded="true" />
-            <element signature="e#1391#1392#0" expanded="true" />
-            <element signature="e#1427#1428#0" expanded="true" />
-            <element signature="e#1500#1501#0" expanded="true" />
-            <element signature="e#1550#1551#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/PokemonRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Pokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Trainer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="100">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/test/java/pokemontrainerfacade/TrainerFacadeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="280">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -866,8 +797,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/TrainerFacade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="260">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#369#370#0" expanded="true" />
