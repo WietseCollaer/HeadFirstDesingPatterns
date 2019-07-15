@@ -5,3 +5,5 @@ include 'Decorator'
 include 'Factory'
 include 'Singleton'
 include 'Command'
+include 'Adapter and Facade'
+
