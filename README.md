@@ -61,4 +61,4 @@ The Abstract Factory Pattern provides an interface for creating families of rela
 
 **Hosted by:** Maxime Orione
 
-**Next Host:**
+**Next Host:** Wietse Collaer

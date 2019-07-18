@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1368a2b0-4ebd-4f00-a136-20631d78dc40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/PokemonRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Trainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/TrainerFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adapter and Facade/src/test/java/pokemontrainerfacade/TrainerFacadeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -124,11 +119,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/test/java/pokemontrainerfacade/TrainerFacadeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="56" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="56" />
+            <state relative-caret-position="320">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="281">
+                <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -169,7 +176,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/PokemonRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
@@ -208,7 +215,6 @@
         <option value="$PROJECT_DIR$/Singleton/src/main/java/com/cegeka/meetingroom/MeetingRoomTest.java" />
         <option value="$PROJECT_DIR$/Singleton/src/main/java/com/cegeka/meetingroom/MeetingRoom.java" />
         <option value="$PROJECT_DIR$/Singleton/src/test/java/com/cegeka/meetingroom/MeetingRoomTest.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Singleton/src/main/java/com/cegeka/chocolateboiler/ChocolateBoiler.java" />
         <option value="$PROJECT_DIR$/Singleton/src/test/java/com/cegeka/chocolateboiler/ChocolateBoilerTest.java" />
         <option value="$PROJECT_DIR$/Adapter and Facade/src/main/java/turkeyduck/Duck.java" />
@@ -233,14 +239,14 @@
         <option value="$PROJECT_DIR$/Adapter and Facade/src/test/java/pokemontrainerfacade/TrainerFacadeTest.java" />
         <option value="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/TrainerFacade.java" />
         <option value="$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/PokemonRepository.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1553" />
-    <option name="height" value="880" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -472,7 +478,7 @@
       <workItem from="1562312102733" duration="568000" />
       <workItem from="1563203573688" duration="6108000" />
       <workItem from="1563264757623" duration="15000" />
-      <workItem from="1563454860606" duration="1475000" />
+      <workItem from="1563454860606" duration="1663000" />
     </task>
     <task id="LOCAL-00001" summary="Added Singleton project">
       <created>1562240108928</created>
@@ -499,9 +505,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TrainerAdapterTest_itWorks - 2019.07.15 at 18h 13m 32s.xml">
-      <configuration name="TrainerAdapterTest.itWorks" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TrainerAdapterTest_itWorks - 2019.07.15 at 18h 15m 07s.xml">
       <configuration name="TrainerAdapterTest.itWorks" configurationId="JUnit" />
     </history-entry>
@@ -529,14 +532,52 @@
     <history-entry file="TrainerFacadeTest_itWorks - 2019.07.18 at 15h 20m 28s.xml">
       <configuration name="TrainerFacadeTest.itWorks" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TrainerFacadeTest_itWorks - 2019.07.18 at 15h 26m 04s.xml">
+      <configuration name="TrainerFacadeTest.itWorks" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11733000" />
+    <option name="totallyTimeSpent" value="11921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15436241" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36652836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.8284924" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32918397" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32918397" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32918397" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32918397" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15436241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
@@ -570,7 +611,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Key Promoter X" order="10" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -622,16 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="706">
-            <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -744,13 +775,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/ITrainerAdapter.java" />
     <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/PokemonType.java" />
-    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/test/java/pokemontrainerfacade/TrainerFacadeTest.java">
+    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/PokemonRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="56" />
+        <state relative-caret-position="50">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Pokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Trainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -770,27 +815,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Trainer.java">
+    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/test/java/pokemontrainerfacade/TrainerFacadeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/Pokemon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Adapter and Facade/src/main/java/pokemontrainerfacade/PokemonRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        <state relative-caret-position="320">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="281">
+            <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
