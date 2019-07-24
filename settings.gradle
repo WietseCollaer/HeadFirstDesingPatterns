@@ -6,4 +6,5 @@ include 'Factory'
 include 'Singleton'
 include 'Command'
 include 'Adapter and Facade'
+include 'Template'
 
