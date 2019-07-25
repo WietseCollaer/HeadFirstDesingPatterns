@@ -65,4 +65,8 @@ The Abstract Factory Pattern provides an interface for creating families of rela
 
 ## Template Method Pattern (25/07/2019)
 **Template Method Pattern:** The Template Method Pattern defines the skeleton of an algorithm in a method, deferring some steps to subclasses.
-Template Method lets the subclasses redefine certain steps of an algorithm without changing the algorithm's structure. 
+Template Method lets the subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
+
+**Hosted by:** Wietse Collaer
+
+**Next Host:** Alexandre Vettas 
