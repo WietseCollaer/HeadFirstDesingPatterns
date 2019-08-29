@@ -70,3 +70,12 @@ Template Method lets the subclasses redefine certain steps of an algorithm witho
 **Hosted by:** Wietse Collaer
 
 **Next Host:** Alexandre Vettas 
+
+## Iterator and Composite Patterns (29/08/2019)
+**The Iterator Pattern:** The Iterator Pattern provides a way to access the elements of an aggregate object sequentially without expoing its underlying representation.
+
+**The Composite Pattern:** The Composite Pattern allows you to compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+
+**Hosted by:** Alexandre Vettas
+
+**Next Host:** Wietse Collaer
