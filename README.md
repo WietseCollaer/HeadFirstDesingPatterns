@@ -79,3 +79,11 @@ Template Method lets the subclasses redefine certain steps of an algorithm witho
 **Hosted by:** Alexandre Vettas
 
 **Next Host:** Wietse Collaer
+
+## The State Pattern (19/09/2019)
+**The State Pattern:** The State Pattern allows an object to alter its behavior
+when its internal state changes. The object will appear to change its class.
+
+**Hosted by:** Wietse Collaer
+
+**Next host:** Max Orione 
