@@ -8,4 +8,5 @@ include 'Command'
 include 'Adapter and Facade'
 include 'Template'
 include 'State'
+include 'Proxy'
 
