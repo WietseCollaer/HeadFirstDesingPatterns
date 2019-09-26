@@ -37,7 +37,7 @@ public class NuclearBombProxyTest {
     public void ifDeveloper_thenCannotSetTarget() {
         NuclearBombInterface bomb = new NuclearBombProxy(NuclearBombRole.DEVELOPER);
 
-        assertThat(bomb.setTarget(2, 5)).isEqualTo(NuclearBombInterface.DEVELOPER_CANNOT_SET_LOCATION);
+        assertThat(bomb.setTarget(2, 5)).isEqualTo(NuclearBombInterface.DEVELOPER_CANNOT_SET_TARGET);
     }
 
     @Test
