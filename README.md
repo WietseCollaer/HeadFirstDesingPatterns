@@ -91,7 +91,7 @@ when its internal state changes. The object will appear to change its class.
 
 **Next Host:** Alexandre Vettas
 
-# Compound Pattern (17/10/2019 & 24/10/2019)
+## Compound Pattern (17/10/2019 & 24/10/2019)
 **A Compound Pattern** combines two or more patterns into a solution that solves a recurring or general problem.
 
 [Alternatives to MVC](https://blog.ircmaxell.com/2014/11/alternatives-to-mvc.html)
